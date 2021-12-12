@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T11:27:38.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="eGYK4nPYYEJ81B-j2Ash" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T11:30:08.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="Ot4IFfndubfAq-ESLQd1" version="15.9.4" type="github">
   <diagram id="p5ypxESbC7IPm-HcoCzS" name="Page-1">
     <mxGraphModel dx="980" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,11 +9,17 @@
             <mxPoint x="410" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OHOHR5iIJeZcv2c0FmIt-1" value="&lt;font&gt;检查是否有键被按&lt;/font&gt;&lt;br&gt;&lt;font&gt;&lt;font&gt;（）（防抖软件&lt;/font&gt;&lt;br&gt;&lt;font&gt;）&lt;/font&gt; &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OHOHR5iIJeZcv2c0FmIt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHOHR5iIJeZcv2c0FmIt-1" target="OHOHR5iIJeZcv2c0FmIt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHOHR5iIJeZcv2c0FmIt-1" value="&lt;font&gt;检查是否有键被按&lt;/font&gt;&lt;br&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;（check软件防抖&lt;/font&gt;&lt;/font&gt;&lt;font&gt;）&lt;/font&gt; &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHOHR5iIJeZcv2c0FmIt-2" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHOHR5iIJeZcv2c0FmIt-4" value="nage查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
